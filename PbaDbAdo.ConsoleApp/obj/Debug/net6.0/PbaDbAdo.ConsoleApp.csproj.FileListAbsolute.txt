@@ -20,3 +20,25 @@ C:\Users\ygg-marh\OneDrive\Uddannelse\EAAA\Databaser For Udviklere\Lektion 8\Pba
 C:\Users\ygg-marh\OneDrive\Uddannelse\EAAA\Databaser For Udviklere\Lektion 8\PbaDbAdo\PbaDbAdo.ConsoleApp\obj\Debug\net6.0\PbaDbAdo.ConsoleApp.pdb
 C:\Users\ygg-marh\OneDrive\Uddannelse\EAAA\Databaser For Udviklere\Lektion 8\PbaDbAdo\PbaDbAdo.ConsoleApp\obj\Debug\net6.0\PbaDbAdo.ConsoleApp.genruntimeconfig.cache
 C:\Users\ygg-marh\OneDrive\Uddannelse\EAAA\Databaser For Udviklere\Lektion 8\PbaDbAdo\PbaDbAdo.ConsoleApp\obj\Debug\net6.0\ref\PbaDbAdo.ConsoleApp.dll
+C:\Users\Martin Hansen\source\repos\PbaDbAdo\PbaDbAdo.ConsoleApp\bin\Debug\net6.0\PbaDbAdo.ConsoleApp.exe
+C:\Users\Martin Hansen\source\repos\PbaDbAdo\PbaDbAdo.ConsoleApp\bin\Debug\net6.0\PbaDbAdo.ConsoleApp.deps.json
+C:\Users\Martin Hansen\source\repos\PbaDbAdo\PbaDbAdo.ConsoleApp\bin\Debug\net6.0\PbaDbAdo.ConsoleApp.runtimeconfig.json
+C:\Users\Martin Hansen\source\repos\PbaDbAdo\PbaDbAdo.ConsoleApp\bin\Debug\net6.0\PbaDbAdo.ConsoleApp.dll
+C:\Users\Martin Hansen\source\repos\PbaDbAdo\PbaDbAdo.ConsoleApp\bin\Debug\net6.0\PbaDbAdo.ConsoleApp.pdb
+C:\Users\Martin Hansen\source\repos\PbaDbAdo\PbaDbAdo.ConsoleApp\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Martin Hansen\source\repos\PbaDbAdo\PbaDbAdo.ConsoleApp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Martin Hansen\source\repos\PbaDbAdo\PbaDbAdo.ConsoleApp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Martin Hansen\source\repos\PbaDbAdo\PbaDbAdo.ConsoleApp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Martin Hansen\source\repos\PbaDbAdo\PbaDbAdo.ConsoleApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Martin Hansen\source\repos\PbaDbAdo\PbaDbAdo.ConsoleApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Martin Hansen\source\repos\PbaDbAdo\PbaDbAdo.ConsoleApp\obj\Debug\net6.0\PbaDbAdo.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Martin Hansen\source\repos\PbaDbAdo\PbaDbAdo.ConsoleApp\obj\Debug\net6.0\PbaDbAdo.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin Hansen\source\repos\PbaDbAdo\PbaDbAdo.ConsoleApp\obj\Debug\net6.0\PbaDbAdo.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Martin Hansen\source\repos\PbaDbAdo\PbaDbAdo.ConsoleApp\obj\Debug\net6.0\PbaDbAdo.ConsoleApp.AssemblyInfo.cs
+C:\Users\Martin Hansen\source\repos\PbaDbAdo\PbaDbAdo.ConsoleApp\obj\Debug\net6.0\PbaDbAdo.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Martin Hansen\source\repos\PbaDbAdo\PbaDbAdo.ConsoleApp\obj\Debug\net6.0\PbaDbAdo.ConsoleApp.csproj.CopyComplete
+C:\Users\Martin Hansen\source\repos\PbaDbAdo\PbaDbAdo.ConsoleApp\obj\Debug\net6.0\PbaDbAdo.ConsoleApp.dll
+C:\Users\Martin Hansen\source\repos\PbaDbAdo\PbaDbAdo.ConsoleApp\obj\Debug\net6.0\refint\PbaDbAdo.ConsoleApp.dll
+C:\Users\Martin Hansen\source\repos\PbaDbAdo\PbaDbAdo.ConsoleApp\obj\Debug\net6.0\PbaDbAdo.ConsoleApp.pdb
+C:\Users\Martin Hansen\source\repos\PbaDbAdo\PbaDbAdo.ConsoleApp\obj\Debug\net6.0\PbaDbAdo.ConsoleApp.genruntimeconfig.cache
+C:\Users\Martin Hansen\source\repos\PbaDbAdo\PbaDbAdo.ConsoleApp\obj\Debug\net6.0\ref\PbaDbAdo.ConsoleApp.dll

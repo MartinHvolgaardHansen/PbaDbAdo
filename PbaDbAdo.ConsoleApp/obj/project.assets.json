@@ -454,24 +454,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ygg-marh\\.nuget\\packages\\": {}
+    "C:\\Users\\Martin Hansen\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ygg-marh\\OneDrive\\Uddannelse\\EAAA\\Databaser For Udviklere\\Lektion 8\\PbaDbAdo\\PbaDbAdo.ConsoleApp\\PbaDbAdo.ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\Martin Hansen\\source\\repos\\PbaDbAdo\\PbaDbAdo.ConsoleApp\\PbaDbAdo.ConsoleApp.csproj",
       "projectName": "PbaDbAdo.ConsoleApp",
-      "projectPath": "C:\\Users\\ygg-marh\\OneDrive\\Uddannelse\\EAAA\\Databaser For Udviklere\\Lektion 8\\PbaDbAdo\\PbaDbAdo.ConsoleApp\\PbaDbAdo.ConsoleApp.csproj",
-      "packagesPath": "C:\\Users\\ygg-marh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ygg-marh\\OneDrive\\Uddannelse\\EAAA\\Databaser For Udviklere\\Lektion 8\\PbaDbAdo\\PbaDbAdo.ConsoleApp\\obj\\",
+      "projectPath": "C:\\Users\\Martin Hansen\\source\\repos\\PbaDbAdo\\PbaDbAdo.ConsoleApp\\PbaDbAdo.ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\Martin Hansen\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Martin Hansen\\source\\repos\\PbaDbAdo\\PbaDbAdo.ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ygg-marh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Martin Hansen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -510,7 +512,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
